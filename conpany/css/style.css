@@ -202,7 +202,8 @@ h2{
     display: grid;
     justify-items: center;
     grid-template-columns: 1fr 1fr 1fr;
-    gap: 50px;
+    width: 100%;
+    gap: 10px;
 }
 .sns ul>li{
     width: 35px;
